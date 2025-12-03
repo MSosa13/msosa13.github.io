@@ -14,7 +14,7 @@
 
 # &nbsp;	<head>
 
-# &nbsp;		<title>Dimension by HTML5 UP</title>
+# &nbsp;		<title>Matias Sosa</title>
 
 # &nbsp;		<meta charset="utf-8" />
 
@@ -54,7 +54,7 @@
 
 # &nbsp;								<p>Portfolio <a href="https://html5up.net">HTML5 UP</a> and released<br />							</div>
 
-# &nbsp;						</div>
+# &nbsp;						
 
 # &nbsp;						<nav>
 
