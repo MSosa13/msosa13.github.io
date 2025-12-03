@@ -50,13 +50,9 @@
 
 # &nbsp;							<div class="inner">
 
-# &nbsp;								<h1>Dimension</h1>
+# &nbsp;								<h1>MATIAS SOSA</h1>
 
-# &nbsp;								<p>A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<br />
-
-# &nbsp;								for free under the <a href="https://html5up.net/license">Creative Commons</a> license.</p>
-
-# &nbsp;							</div>
+# &nbsp;								<p>Portfolio <a href="https://html5up.net">HTML5 UP</a> and released<br />							</div>
 
 # &nbsp;						</div>
 
@@ -64,11 +60,11 @@
 
 # &nbsp;							<ul>
 
-# &nbsp;								<li><a href="#intro">Intro</a></li>
+# &nbsp;								<li><a href="#intro">Academic Projects</a></li>
 
-# &nbsp;								<li><a href="#work">Work</a></li>
+# &nbsp;								<li><a href="#work">Game Jams</a></li>
 
-# &nbsp;								<li><a href="#about">About</a></li>
+# &nbsp;								<li><a href="#about">Prototypes</a></li>
 
 # &nbsp;								<li><a href="#contact">Contact</a></li>
 
